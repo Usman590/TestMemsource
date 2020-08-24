@@ -291,16 +291,16 @@ msgstr "참여도 데이터를 사용할 수 없습니다."
 
 #: templates/eoc_journal.html:154
 msgid "Key Takeaways"
-msgstr "핵심 정리"
+msgstr ""
 
 #: templates/eoc_journal.html:158
 msgid "Key Takeaways PDF not available at this time."
-msgstr "현재 핵심 정리 PDF를 사용할 수 없습니다."
+msgstr ""
 
 #: templates/eoc_journal_edit.html:31
 msgid "Save"
-msgstr "저장"
+msgstr ""
 
 #: templates/eoc_journal_edit.html:35
 msgid "Cancel"
-msgstr "취소"
+msgstr ""
