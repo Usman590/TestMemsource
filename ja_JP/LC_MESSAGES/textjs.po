@@ -38,3 +38,6 @@ msgstr "再起動"
 
 msgid "Restart button"
 msgstr ""
+
+msgid "Restart button"
+msgstr ""
