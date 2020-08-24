@@ -19,3 +19,15 @@ msgstr ""
 
 msgid "Restart"
 msgstr "再起動"
+
+
+msgid "Restart button"
+msgstr ""
+
+
+msgid "Restart Computer"
+msgstr ""
+
+
+msgid "Restart Something"
+msgstr ""
