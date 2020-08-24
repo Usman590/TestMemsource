@@ -308,3 +308,7 @@ msgstr "       "
 #: templates/eoc_journal_edit.html:35
 msgid "Cancel2"
 msgstr "       "
+
+#: templates/eoc_journal_edit.html:35
+msgid "Cancel3"
+msgstr "       "
