@@ -312,3 +312,28 @@ msgstr "       "
 #: templates/eoc_journal_edit.html:35
 msgid "Cancel3"
 msgstr "       "
+
+#: templates/eoc_journal.html:154
+msgid "Key Takeaways"
+msgstr ""
+
+#: templates/eoc_journal.html:158
+msgid "Key Takeaways PDF not available at this time."
+msgstr ""
+
+#: templates/eoc_journal_edit.html:31
+msgid "Save"
+msgstr ""
+
+#: templates/eoc_journal_edit.html:35
+msgid "Cancel"
+msgstr "       "
+
+#: templates/eoc_journal_edit.html:35
+msgid "Cancel2"
+msgstr "       "
+
+#: templates/eoc_journal_edit.html:35
+msgid "Cancel3"
+msgstr "       "
+
