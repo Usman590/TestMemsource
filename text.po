@@ -303,4 +303,4 @@ msgstr ""
 
 #: templates/eoc_journal_edit.html:35
 msgid "Cancel"
-msgstr ""
+msgstr "       "
