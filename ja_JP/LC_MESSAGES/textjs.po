@@ -41,3 +41,10 @@ msgstr ""
 
 msgid "Restart button"
 msgstr ""
+
+
+msgid "Restart button"
+msgstr ""
+
+msgid "Restart button"
+msgstr ""
