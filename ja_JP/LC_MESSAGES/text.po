@@ -1,1 +1,2 @@
-
+msgid "Restart button"
+msgstr ""
