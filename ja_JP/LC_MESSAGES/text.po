@@ -1,5 +1,2 @@
 msgid "Restart button"
 msgstr ""
-
-msgid "Restart"
-msgstr ""
